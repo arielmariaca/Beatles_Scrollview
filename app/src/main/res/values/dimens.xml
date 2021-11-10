@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_regular">10dp</dimen>
+    <dimen name="padding_article">20dp</dimen>
+    <dimen name="espaciado">5sp</dimen>
+</resources>
